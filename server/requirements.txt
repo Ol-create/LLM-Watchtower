@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-cloud-pubsub
+google-cloud-secret-manager
+google-cloud-bigquery
+httpx
+pydantic
+python-dotenv
+datadog
